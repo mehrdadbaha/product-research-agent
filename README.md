@@ -116,10 +116,6 @@ As a **Business & Engineering master’s student in Berlin** transitioning towar
 - Combines **market research, strategy thinking, and AI tooling**
 - Is directly relevant to **Berlin startup PM / strategy roles**
 
-This agent is the first piece of a 3-week portfolio plan:
-1. AI Product Research / Decision Agent ✅  
-2. AI PRD Writer (RAG over real PRDs)  
-3. Berlin PM Jobs Intelligence Agent  
 
 ---
 
