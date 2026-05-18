@@ -1,5 +1,11 @@
 # 🔍 AI Product Research Agent
 
+![Python](https://img.shields.io/badge/python-3.10+-blue)
+![LangChain](https://img.shields.io/badge/LangChain-0.3-green)
+![LangGraph](https://img.shields.io/badge/LangGraph-latest-green)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o--mini-orange)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pro-duct-research-agent-mehrdad.streamlit.app/)
+
 An autonomous AI agent that turns a one-line product idea into a structured **decision memo**:
 “Should we build this, and why now?”
 
