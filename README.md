@@ -4,6 +4,7 @@ An autonomous AI agent that turns a one-line product idea into a structured **de
 “Should we build this, and why now?”
 
 **Live app:** https://pro-duct-research-agent-mehrdad.streamlit.app/  
+![Demo](docs/Sgit add docs/screenshot.pngcreenshot.png)
 **Code:** https://github.com/mehrdadbaha/product-research-agent
 
 ---
@@ -67,7 +68,9 @@ venv\Scripts\activate
 # Install dependencies
 pip install -r requirements.txt
 
-# Add your API keys in a .env file
+# Copy the example file and fill in your keys
+cp .env.example .env
+# Then open .env and replace the placeholder values with your real keys
 # .env
 # OPENAI_API_KEY=sk-...
 # TAVILY_API_KEY=tvly-...
