@@ -9,9 +9,10 @@
 An autonomous AI agent that turns a one-line product idea into a structured **decision memo**:
 “Should we build this, and why now?”
 
-**Live app:** https://pro-duct-research-agent-mehrdad.streamlit.app/  
-![Demo](docs/Sgit add docs/screenshot.pngcreenshot.png)
-**Code:** https://github.com/mehrdadbaha/product-research-agent
+Live app: https://pro-duct-research-agent-mehrdad.streamlit.app/  
+Code: https://github.com/mehrdadbaha/product-research-agent
+
+![Demo](docs/Screenshot.png)
 
 ---
 
