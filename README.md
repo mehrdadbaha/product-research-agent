@@ -128,3 +128,13 @@ As a **Business & Engineering master’s student in Berlin** transitioning towar
 - Support multiple personas (VC analyst, PM, founder) with different memo styles  
 - Export the decision memo as PDF for pitch decks  
 - Add a “Berlin-only” mode focusing on DACH market data
+
+---
+
+## Testing
+
+Run the smoke test to verify the agent output contains all required sections:
+
+```bash
+python tests/test_smoke.py
+```
